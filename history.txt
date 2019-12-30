@@ -1,0 +1,20 @@
+kjob 1 17
+quit
+ls
+ls -l ls.c
+ls ls.c
+ls main.c
+what the fuck
+code
+quit
+ls -l ls.c
+ls -l ./
+ls -l ~
+quit
+ls -l ./
+quit
+ls
+cd
+ls
+cd ../
+quit
