@@ -33,7 +33,7 @@ This is a linux shell written in C with basic functionalities like inbuilt comma
 15. `bg <job_id>`. Runs the background process.
 16. `quit`. Quits the shell.
 17. `cronjob -t <num> -c [command] -p <num>`. Executes a particular command in fixed time interval for a certain period. Ex: 'cronjob -c [ls] -t 3 -p 6'. This command executes ‘ls’ command after every 3 seconds until 6 seconds are elapsed.
-18. Handles redirection and piping with proper Signal Handling.
+18. Handles comma separated commands, redirection and piping with proper Signal Handling.
 
 ## FILES
 - main.c : main file which contains shell loop.
